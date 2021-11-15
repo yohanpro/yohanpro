@@ -8,6 +8,11 @@
   ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanpro&show_icons=true&theme=radical&repo=github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanpro)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br/>
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yohanpro)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   
