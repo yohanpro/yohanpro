@@ -12,7 +12,7 @@
   
   <br/>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yohanpro)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yohanpro&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   
